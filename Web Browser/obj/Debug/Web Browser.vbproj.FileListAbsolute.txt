@@ -1,0 +1,13 @@
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web Browser.vbprojResolveAssemblyReference.cache
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.Cache
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web_Browser.Settings.resources
+G:\Programming Projects\WebBrowser\Web Browser\Web Browser\obj\Debug\Web_Browser.Email.resources
